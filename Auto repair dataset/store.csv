@@ -1,0 +1,51 @@
+store_id,store_name,city,state,manager_id,manager_name,opened_year,store_type
+1,East Julie Service Center,North Bradley,MD,MGR011,Kevin Moore,2016,OWNED
+2,West Rachel Service Center,East Meghanland,CT,MGR012,Samuel Andrade,2019,OWNED
+3,East Joan Service Center,Tylermouth,IA,MGR004,Rachel Clark DDS,2017,OWNED
+4,Port Angelaside Service Center,Danielbury,MH,MGR011,Kevin Moore,2023,OWNED
+5,West Elizabeth Service Center,Garrisonfurt,PR,MGR010,Luis Gibson,2021,OWNED
+6,North Virginia Service Center,Lake Robert,OH,MGR001,Christian Lane,2016,OWNED
+7,West Jerryside Service Center,Josephton,WI,MGR004,Rachel Clark DDS,2023,OWNED
+8,Port Jamesmouth Service Center,North Stephanieborough,HI,MGR009,Bonnie Ho,2018,FRANCHISE
+9,Jamesfurt Service Center,Garymouth,SC,MGR004,Rachel Clark DDS,2022,FRANCHISE
+10,Port Samuel Service Center,Alejandroshire,SC,MGR013,Kelly Mendez,2015,OWNED
+11,South Pamelaland Service Center,South Edwardmouth,WI,MGR012,,2021,FRANCHISE
+12,New Kevinfurt Service Center,Royfurt,TN,MGR005,Stephanie Carr,2017,OWNED
+13,North Luketon Service Center,Port Gregorystad,SD,MGR013,Kelly Mendez,2020,OWNED
+14,Jennifermouth Service Center,New Peter,FL,MGR002,Rebecca Williamson,2021,OWNED
+15,North Monica Service Center,Markland,NC,MGR006,Mr. Richard Hensley,2020,FRANCHISE
+16,Robinsontown Service Center,Juanport,HI,MGR013,Kelly Mendez,2015,FRANCHISE
+17,Lake Cindyshire Service Center,Jonesside,WA,MGR009,Bonnie Ho,2016,FRANCHISE
+18,South Rachel Service Center,Sarastad,NM,MGR002,Rebecca Williamson,2023,FRANCHISE
+19,South Jessica Service Center,Thomaschester,FL,MGR014,Angela Ayala,2024,FRANCHISE
+20,Ravenhaven Service Center,Wellsport,CA,MGR010,Luis Gibson,2018,OWNED
+21,Port Joseph Service Center,Kathleenshire,CA,MGR001,Christian Lane,2018,FRANCHISE
+22,North Brett Service Center,North Phillipmouth,NY,MGR002,Rebecca Williamson,2018,OWNED
+23,Port Stephenport Service Center,New Michelle,AL,MGR007,Joseph Mitchell,2019,FRANCHISE
+24,East Kayleeton Service Center,Williamston,LA,MGR011,Kevin Moore,2020,OWNED
+25,West Joshualand Service Center,Port Mercedesmouth,MP,MGR006,Mr. Richard Hensley,2020,OWNED
+26,Christinashire Service Center,Danielshire,AL,MGR011,Kevin Moore,2019,OWNED
+27,New Ginafort Service Center,Evansfurt,MS,MGR010,Luis Gibson,2017,OWNED
+28,Carmentown Service Center,Bowmantown,OR,MGR003,Lisa Lee,2022,FRANCHISE
+29,Lake Willie Service Center,Hannahberg,AS,MGR005,Stephanie Carr,2023,OWNED
+30,South Laura Service Center,New Leonard,IN,MGR011,Kevin Moore,2020,OWNED
+31,New Kristinafurt Service Center,Jonesfort,MO,MGR004,Rachel Clark DDS,2015,FRANCHISE
+32,Johnport Service Center,Taraport,NM,MGR007,Joseph Mitchell,2019,OWNED
+33,Powellfurt Service Center,New Heather,CO,MGR004,Rachel Clark DDS,2024,FRANCHISE
+34,Williamsfort Service Center,North Kevinstad,AL,MGR004,Rachel Clark DDS,2022,FRANCHISE
+35,Lake Heatherville Service Center,New Arthurbury,CO,MGR015,Faith Johnson,2022,OWNED
+36,Port Travis Service Center,Simsberg,MO,MGR005,Stephanie Carr,2017,OWNED
+37,North Jason Service Center,Smallton,MI,MGR012,Samuel Andrade,2023,FRANCHISE
+38,Macdonaldburgh Service Center,Johnsonport,AZ,MGR012,Samuel Andrade,2024,FRANCHISE
+39,Beanville Service Center,Lake Cynthia,AS,MGR015,Faith Johnson,2024,FRANCHISE
+40,South Brian Service Center,Johnsonstad,NC,MGR006,Mr. Richard Hensley,2018,OWNED
+41,North Vincentburgh Service Center,Boyerton,MA,MGR009,Bonnie Ho,2022,OWNED
+42,East Jennifermouth Service Center,North Mark,GA,MGR013,Kelly Mendez,2015,OWNED
+43,Dannymouth Service Center,Lake Austinmouth,DC,MGR003,Lisa Lee,2017,FRANCHISE
+44,Cynthiafurt Service Center,East Steven,NV,MGR010,Luis Gibson,2016,FRANCHISE
+45,Johnsonland Service Center,Foxmouth,FM,MGR007,Joseph Mitchell,2024,FRANCHISE
+46,New Lisamouth Service Center,Hectorbury,FL,MGR009,Bonnie Ho,2019,OWNED
+47,Millerchester Service Center,North Kathryn,AK,MGR011,Kevin Moore,2016,FRANCHISE
+48,Alexandertown Service Center,Port Jamesshire,DE,MGR013,Kelly Mendez,2020,OWNED
+49,Chaseview Service Center,Armstrongchester,WI,MGR005,Stephanie Carr,2021,OWNED
+50,Johnsonmouth Service Center,West Corey,CA,MGR008,Steven Taylor,2015,FRANCHISE

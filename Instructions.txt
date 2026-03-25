@@ -1,0 +1,49 @@
+Hi Everyone,
+ 
+I hope you’re all excited to begin your DE mini project!
+ 
+Please find the project objective and use case details below:
+ 
+Mini Hack – Turning Raw Data into Decisions
+ 
+Objective:
+Each participant will work on integrating, processing, and analyzing the assigned use cases and KPIs using modern data engineering tools. The focus will be on data preparation, transformation, and structured analysis.
+ 
+Use Case:
+Data Ingestion:  Choose your preferred location to store source data and then ingest data from it.
+Data Processing: Perform data cleansing and transformation using Databricks or Fabric.
+Data Analysis: Build a data cube with key KPIs for evaluation.
+Orchestration: Create jobs/pipeline to orchestrate your code.
+ 
+We have assigned each individual a specific tech stack and use case to work on. Please refer to the Excel attachment.
+You can also find the case study details and base datasets in the same location. - ​DE mini Project​
+Note:
+During the evaluation, the final score will be calculated based on the criteria outlined below
+
+
+
+
+Metrics
+Marks
+1.     Data Ingestion
+10
+2.     Layering
+10
+3.     Data Modeling
+10
+4.     Transformation
+15
+5.     Coding standards.
+5
+6.     Folder structure and Naming standard
+5
+7.     KPI outupts
+15
+8.     Optimization
+5
+9.     Documentation
+5
+10.  Git  and version Controlling
+10
+11.  Orchestration
+10
